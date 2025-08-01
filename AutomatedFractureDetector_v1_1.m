@@ -8,6 +8,10 @@
 % Portions Copyright (c) 2019 Rahul Prabhakaran, TU Delft
 % Based on and modified from Prabhakaran et al. (2019) – see README for details.
 %
+% Citation:
+% Automated Fracture Detector v1.1 [Software]. Zenodo.
+% https://doi.org/10.5281/zenodo.16696176
+%
 % Description:
 % This MATLAB pipeline automates the detection and extraction of rock
 % fracture traces from outcrop/satellite images. It combines and modifies four
@@ -1064,5 +1068,6 @@ Tstats.Threshold              = threshold;
 % save into the same base folder as your roses & histograms
 statsFile = fullfile(outfolder0, 'SummaryStatistics.xlsx');
 writetable(Tstats, statsFile);
+
 
 fprintf('Summary statistics saved to:\n  %s\n', statsFile);
