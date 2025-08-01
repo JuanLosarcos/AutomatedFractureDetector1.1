@@ -1,5 +1,5 @@
 # Automated Fracture Detector (Modified Version). 2025
-# Authors: Losarcos, J. M., Bernardi, M. I.,and Hryb D. E.
+# Losarcos, J. M., Bernardi, M. I.,and Hryb D. E.
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16696176.svg)](https://doi.org/10.5281/zenodo.16696176)
 
 Corresponding author: Juan Manuel Losarcos, University of Illinois Chicago (jlosa@uic.edu)  
